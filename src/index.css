@@ -5,3 +5,17 @@
 body{
     background-color: #ffffffed;
 }
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/GothamMedium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('/fonts/GothamMedium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+

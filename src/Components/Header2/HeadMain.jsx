@@ -17,7 +17,7 @@ const HeadMain = () => {
        <SkincareTips />
        <About />
        </div>
-       <div className='flex items-center gap-1 pr-12'>
+       <div className='flex items-center gap-3 pr-12'>
          <SignUp />
       <Search />
       </div>
